@@ -1,6 +1,3 @@
 test1.txt
-<<<<<<< HEAD
-test conflict 2
-=======
+
 test conflict 1
->>>>>>> origin/test1
